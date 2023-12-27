@@ -5,3 +5,5 @@ This project was inspired by my interest in batteries as an ever-growing part of
 
 Data from this project was sourced from Severson, Kristen A., et al. "Data-driven prediction of battery cycle life before capacity degradation." *Nature
 Energy* Volume 4 (2019): 383–391.
+
+I, Brian Keith, grant permission for this project to be used as an example for future ISYE 6420 students.
