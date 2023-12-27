@@ -1,0 +1,27 @@
+Severson et al. 2019
+Paper - https://www.nature.com/articles/s41560-019-0356-8
+Data - https://data.matr.io/1/projects/5d80e633f405260001c0b60a
+Github - https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation/tree/master
+
+Zhou et al. 2022
+Paper - https://www.sciencedirect.com/science/article/pii/S2352152X22005771
+
+Han et al. 2019
+Paper - https://www.sciencedirect.com/science/article/pii/S2590116819300050
+
+Mathieu et al. 2021
+Paper - https://www.sciencedirect.com/science/article/pii/S0306261920317268
+
+Neaimeh et al. 2017
+Paper - https://www.sciencedirect.com/science/article/pii/S0301421517303877
+
+Misc:
+https://www.exro.com/industry-insights/battery-degradation-explained#:~:text=Nevertheless%2C%20battery%20degradation%20sets%20in,charged%2C%20and%20its%20maintenance%20routine
+
+https://medium.com/batterybits/comparison-of-open-datasets-for-lithium-ion-battery-testing-fd0de091ca2
+https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/
+
+Priors:
+https://stats.stackexchange.com/questions/237847/what-are-the-properties-of-a-half-cauchy-distribution
+https://stats.stackexchange.com/questions/20291/when-is-half-normal-distribution-useful
+http://www.stat.columbia.edu/~gelman/research/published/taumain.pdf
